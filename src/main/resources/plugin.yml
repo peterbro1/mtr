@@ -1,0 +1,4 @@
+name: Mtr
+main: me.gmx.mtr.Mtr
+version: ${project.version}
+author: GMX
